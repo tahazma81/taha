@@ -1,0 +1,60 @@
+{
+  "job_id": "87c0383b47ff4756beb7d528f7f17280",
+  "telegram_user_id": 1833501534,
+  "request_id": "27c20f2930a843e2af3135da2eb8f25e",
+  "created_at": "2026-05-13T20:33:51.918958+00:00",
+  "expires_at": "2026-05-14T20:33:16.215352+00:00",
+  "user_id": 1833501534,
+  "original_filename": "9_BEST_Ways_to_Make_Yourself_Study_When_You_Have_ZERO_Motivation [hQC2hzouMTA].mp4",
+  "total_size": 151366404,
+  "archive_size": 151036283,
+  "parts_count": 2,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_87c0383b__user_1833501534.z01",
+      "source_filename": "job_87c0383b__user_1833501534.z01",
+      "size": 99614720,
+      "sha256": "399f27b0ccb3c26c179ae0699878b75ed9180b8ba88bbbdeb1af4b3ee92a5bc8",
+      "raw_url": "https://raw.githubusercontent.com/tahazma81/taha/storage-1833501534-27c20f29/temp/1833501534/27c20f2930a843e2af3135da2eb8f25e/job_87c0383b__user_1833501534.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_87c0383b__user_1833501534.zip",
+      "source_filename": "job_87c0383b__user_1833501534.zip",
+      "size": 51421563,
+      "sha256": "ab6866441650c774b5ec904ce61ef319441ae4b51093aba0c0968dcc3fe0386d",
+      "raw_url": "https://raw.githubusercontent.com/tahazma81/taha/storage-1833501534-27c20f29/temp/1833501534/27c20f2930a843e2af3135da2eb8f25e/job_87c0383b__user_1833501534.zip"
+    }
+  ],
+  "repo_owner": "tahazma81",
+  "repo_name": "taha",
+  "branch": "storage-1833501534-27c20f29",
+  "remote_path": "temp/1833501534/27c20f2930a843e2af3135da2eb8f25e",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_87c0383b__user_1833501534.z01",
+      "source_filename": "job_87c0383b__user_1833501534.z01",
+      "size": 99614720,
+      "sha256": "399f27b0ccb3c26c179ae0699878b75ed9180b8ba88bbbdeb1af4b3ee92a5bc8",
+      "raw_url": "https://raw.githubusercontent.com/tahazma81/taha/storage-1833501534-27c20f29/temp/1833501534/27c20f2930a843e2af3135da2eb8f25e/job_87c0383b__user_1833501534.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_87c0383b__user_1833501534.zip",
+      "source_filename": "job_87c0383b__user_1833501534.zip",
+      "size": 51421563,
+      "sha256": "ab6866441650c774b5ec904ce61ef319441ae4b51093aba0c0968dcc3fe0386d",
+      "raw_url": "https://raw.githubusercontent.com/tahazma81/taha/storage-1833501534-27c20f29/temp/1833501534/27c20f2930a843e2af3135da2eb8f25e/job_87c0383b__user_1833501534.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_87c0383b__user_1833501534.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": "bce0532915f6f2f1a28fbae8f4ff2ebdf9bfde22a24ee5087c6d0424525cd2c5"
+}
